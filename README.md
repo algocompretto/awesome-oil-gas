@@ -24,7 +24,8 @@ If you would like to help support the project, please star the repository
 | [Taranaiki Basin - Kerry 3D](https://wiki.seg.org/wiki/Kerry-3D) | Real | 2015 | Data provided by the New Zealand Crown Minerals is a prestack migrated final volume. The volume is 1 GBytes. All data are time migrated. |
 | [Taranaiki Basin - Opunake 3D](https://wiki.seg.org/wiki/Opunake-3D) | Real | 2015 | Data provided by the New Zealand Crown Minerals is a prestack migrated final volume. The volume is 10 GBytes. All data are prestack, time migrated. |
 | [2D Multichannel Seismic - Gulf of Mexico](https://walrus.wr.usgs.gov/namss/survey/b-25-92-la/) | Real | 1992 | These data were acquired by BOEM (formerly MMS and USGS). Under the terms of procurement, these data are to be available to the public 25 years after the issuance of the exploration permit. |
+| [Stanford VI-E](https://github.com/SCRFpublic/Stanford-VI-E) | Synthetic | 2012 | A large-scale data set including time-lapse (4D) elastic attributes and electrical resistivity is generated with the purpose of testing algorithms for reservoir modeling, reservoir characterization, production forecasting, and especially joint time-lapse monitoring using seismic as well as electromagnetic data. |
 
 
 [stars-img]: https://img.shields.io/github/stars/algocompretto/awesome-oil-gas?style=social
-[stars-url]: https://github.com/algocompretto/awesome-oil-gas
+[stars-url]: https://github.com/algocompretto/awesome-oil-gas/
